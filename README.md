@@ -17,7 +17,7 @@
 - **BitBase**: full-stack work (PHP, WordPress, React, Java) on a crypto ATM management platform.
 - **everis / NTT Data**: Angular, then Java and Spring Boot on an insurance platform for Allianz.
 
-### 🛠️ Languages and tools
+### 🛠️ Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,symfony,laravel,java,spring,dotnet,react,angular,aws,azure,git,github" alt="Tech stack"/>
@@ -25,4 +25,4 @@
 
 ### 📫 Let's talk
 
-Open to backend roles (remote or hybrid). The best way to reach me is [LinkedIn](https://www.linkedin.com/in/daniel-navarro-c/).
+Open to backend roles, remote or hybrid. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/daniel-navarro-c/).
