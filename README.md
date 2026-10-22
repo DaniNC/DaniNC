@@ -13,7 +13,7 @@
 
 ### 💼 Experience
 
-- **Openprovider**: Symfony and PHP on a domain reseller platform (Reseller Control Panel, WHMCS module). 2022 to 2024.
+- **Openprovider**: Symfony and PHP on a domain reseller platform (Reseller Control Panel, WHMCS module).
 - **BitBase**: full-stack work (PHP, WordPress, React, Java) on a crypto ATM management platform.
 - **everis / NTT Data**: Angular, then Java and Spring Boot on an insurance platform for Allianz.
 
